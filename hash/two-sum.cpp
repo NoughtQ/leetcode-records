@@ -1,4 +1,6 @@
-class Solution {
+// link: https://leetcode.cn/problems/two-sum/
+
+class Solution { 
 public:
     // brute search (can pass all tests, but too slow (O(n^2)))
     vector<int> twoSum(vector<int>& nums, int target) {

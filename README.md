@@ -10,42 +10,159 @@
 
 题目难度徽章：![](https://img.shields.io/badge/简单-brightgreen) ![](https://img.shields.io/badge/中等-yellow) ![](https://img.shields.io/badge/困难-red)
 
-## 进度
+## 进度（1/100）
 
 ### 哈希
 
-- [x] ![](https://img.shields.io/badge/简单-brightgreen) [两数之和](hash/sum-of-two-numbers.cpp)（25.12.23）
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [两数之和](hash/two-sum.cpp)（25.12.23）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [字母异位词分组]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [最长连续序列]()
 
 ### 双指针
 
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [移动零]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [盛最多的水]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [三数之和]()
+- [ ] ![](https://img.shields.io/badge/困难-red) [接雨水]()
+
 ### 滑动窗口
+
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [无重复的最长子串]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [找到字符串中所有字母异位词]()
 
 ### 子串
 
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [和为 K 的子数组]()
+- [ ] ![](https://img.shields.io/badge/困难-red) [滑动窗口最大值]()
+- [ ] ![](https://img.shields.io/badge/困难-red) [最小覆盖子串]()
+
 ### 普通数组
+
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [最大子数组和]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [合并区间]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [轮转数组]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [除自身以外数组的乘积]()
+- [ ] ![](https://img.shields.io/badge/困难-red) [缺失的第一个正数]()
 
 ### 矩阵
 
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [矩阵置零]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [螺旋矩阵]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [旋转图像]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [搜索二维矩阵 II]()
+
 ### 链表
+
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [相交链表]()
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [反转链表]()
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [回文链表]()
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [环形链表]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [环形链表 II]()
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [合并两个有序链表]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [两数相加]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [删除链表的倒数第 N 个节点]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [两两交换链表中的节点]()
+- [ ] ![](https://img.shields.io/badge/困难-red) [K 个一组翻转链表]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [随机链表的复制]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [排序链表]()
+- [ ] ![](https://img.shields.io/badge/困难-red) [合成 K 个升序列表]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [LRU 缓存]()
 
 ### 二叉树
 
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的中序遍历]()
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的最大深度]()
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [翻转二叉树]()
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [对称二叉树]()
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的直径]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉树的层序遍历]()
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [将有序数组转换为二叉搜索树]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [验证二叉搜索树]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉搜索树中第 K 小的元素]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉树的右视图]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉树展开为链表]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [从前序与中序遍历序列构造二叉树]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [路径总和 III]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉树的最近公共祖先]()
+- [ ] ![](https://img.shields.io/badge/困难-red) [二叉树中的最大路径和]()
+
 ### 图论
+
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [岛屿数量]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [腐烂的橘子]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [课程表]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [实现 Trie（前缀树）]()
 
 ### 回溯
 
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [全排列]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [子集]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [电话号码的字母组合]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [组合总和]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [括号生成]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [单词搜索]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [分割回文串]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [N 皇后]()
+
 ### 二分查找
+
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [搜索插入位置]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [搜索二维矩阵]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [在排序数组中查找元素的第一个和最后一个位置]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [搜索旋转排序数组]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [寻找旋转排序数组中的最小值]()
+- [ ] ![](https://img.shields.io/badge/困难-red) [寻找两个正序数组的中位数]()
 
 ### 栈
 
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [有效的括号]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [最小栈]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [字符串解码]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [每日温度]()
+- [ ] ![](https://img.shields.io/badge/困难-red) [柱状图中最大的矩形]()
+
 ### 堆
+
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [数组中的第 K 个最大元素]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [前 K 个高频元素]()
+- [ ] ![](https://img.shields.io/badge/困难-red) [数据流的中位数]()
 
 ### 贪心算法
 
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [买卖股票的最佳时机]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [跳跃游戏]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [跳跃游戏 II]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [划分字母区间]()
+
 ### 动态规划
+
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [爬楼梯]()
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [杨辉三角]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [打家劫舍]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [完全平方数]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [零钱兑换]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [单词拆分]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [最长递增子序列]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [乘积最大子数组]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [分割等和子集]()
+- [ ] ![](https://img.shields.io/badge/困难-red) [最长有效括号]()
 
 ### 多维动态规划
 
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [不同路径]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [最小路径和]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [最长回文子串]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [最长公共子序列]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [编辑距离]()
+
 ### 技巧
+
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [只出现一次的数字]()
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [多数元素]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [颜色分类]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [下一个排列]()
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [寻找重复数]()
+
+## 参考资料
+
+- [cppreference](https://cppreference.com/)：最权威的参考资料！
