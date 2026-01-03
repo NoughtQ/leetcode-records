@@ -2,6 +2,7 @@
 
 class Solution {
 public:
+    // My Solution
     void moveZeroes(vector<int>& nums) {
         int len = nums.size();
         int cnt = 0;
@@ -20,7 +21,7 @@ public:
         }
     }
 
-    // double-pointer version
+    // Double-pointer Version (Official Solution)
     void moveZeroes(vector<int>& nums) {
         int len = nums.size();
         // lp points to (lp)th non-zero element

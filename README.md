@@ -10,7 +10,7 @@
 
 题目难度徽章：![](https://img.shields.io/badge/简单-brightgreen) ![](https://img.shields.io/badge/中等-yellow) ![](https://img.shields.io/badge/困难-red)
 
-## 进度（2/100）
+## 进度（3/100）
 
 ### 哈希
 
@@ -53,7 +53,7 @@
 
 ### 链表
 
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [相交链表]()
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [相交链表](linked-list/intersection-of-two-linked-lists.cpp)
 - [ ] ![](https://img.shields.io/badge/简单-brightgreen) [反转链表]()
 - [ ] ![](https://img.shields.io/badge/简单-brightgreen) [回文链表]()
 - [ ] ![](https://img.shields.io/badge/简单-brightgreen) [环形链表]()
