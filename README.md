@@ -53,8 +53,8 @@
 
 ### 链表
 
-- [x] ![](https://img.shields.io/badge/简单-brightgreen) [相交链表](linked-list/intersection-of-two-linked-lists.cpp)
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [反转链表]()
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [相交链表](linked-list/intersection-of-two-linked-lists.cpp)（26.01.03）
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [反转链表](linked-list/reverse-linked-list.cpp)（26.01.17）
 - [ ] ![](https://img.shields.io/badge/简单-brightgreen) [回文链表]()
 - [ ] ![](https://img.shields.io/badge/简单-brightgreen) [环形链表]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [环形链表 II]()
