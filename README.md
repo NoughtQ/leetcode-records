@@ -10,7 +10,7 @@
 
 题目难度徽章：![](https://img.shields.io/badge/简单-brightgreen) ![](https://img.shields.io/badge/中等-yellow) ![](https://img.shields.io/badge/困难-red)
 
-## 进度（9/100）
+## 进度（10/100）
 
 ### 哈希
 
@@ -72,7 +72,7 @@
 
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的中序遍历](binary-tree/binary-tree-inorder-traversal.cpp)（26.01.19）
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的最大深度](binary-tree/maximum-depth-of-binary-tree.cpp)（26.01.20）
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [翻转二叉树]()
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [翻转二叉树](binary-tree/invert-binary-tree.cpp)（26.01.20）
 - [ ] ![](https://img.shields.io/badge/简单-brightgreen) [对称二叉树]()
 - [ ] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的直径]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉树的层序遍历]()
