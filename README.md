@@ -10,7 +10,7 @@
 
 题目难度徽章：![](https://img.shields.io/badge/简单-brightgreen) ![](https://img.shields.io/badge/中等-yellow) ![](https://img.shields.io/badge/困难-red)
 
-## 进度（12/100）
+## 进度（13/100）
 
 ### 哈希
 
@@ -74,9 +74,9 @@
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的最大深度](binary-tree/maximum-depth-of-binary-tree.cpp)（26.01.20）
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [翻转二叉树](binary-tree/invert-binary-tree.cpp)（26.01.20）
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [对称二叉树](binary-tree/symmetric-tree.cpp)（26.01.20）（但没能完全独立做出来）
-- [x] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的直径](binary-tree/diameter-of-binary-tree.cpp)
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的直径](binary-tree/diameter-of-binary-tree.cpp)（26.01.20）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉树的层序遍历]()
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [将有序数组转换为二叉搜索树]()
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [将有序数组转换为二叉搜索树](binary-tree/convert-sorted-array-to-binary-search-tree.cpp)（26.01.21）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [验证二叉搜索树]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉搜索树中第 K 小的元素]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉树的右视图]()
