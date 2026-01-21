@@ -10,7 +10,7 @@
 
 题目难度徽章：![](https://img.shields.io/badge/简单-brightgreen) ![](https://img.shields.io/badge/中等-yellow) ![](https://img.shields.io/badge/困难-red)
 
-## 进度（15/100）
+## 进度（16/100）
 
 ### 哈希
 
@@ -129,7 +129,7 @@
 
 ### 贪心算法
 
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [买卖股票的最佳时机]()
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [买卖股票的最佳时机](greedy-algorithm/best-time-to-buy-and-sell-stock.cpp)（26.01.21）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [跳跃游戏]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [跳跃游戏 II]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [划分字母区间]()
