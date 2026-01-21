@@ -10,7 +10,7 @@
 
 题目难度徽章：![](https://img.shields.io/badge/简单-brightgreen) ![](https://img.shields.io/badge/中等-yellow) ![](https://img.shields.io/badge/困难-red)
 
-## 进度（14/100）
+## 进度（15/100）
 
 ### 哈希
 
@@ -115,7 +115,7 @@
 
 ### 栈
 
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [有效的括号]()
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [有效的括号](stack/valid-parentheses.cpp)（26.01.21）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [最小栈]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [字符串解码]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [每日温度]()
