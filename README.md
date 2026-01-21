@@ -10,7 +10,7 @@
 
 题目难度徽章：![](https://img.shields.io/badge/简单-brightgreen) ![](https://img.shields.io/badge/中等-yellow) ![](https://img.shields.io/badge/困难-red)
 
-## 进度（13/100）
+## 进度（14/100）
 
 ### 哈希
 
@@ -106,7 +106,7 @@
 
 ### 二分查找
 
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [搜索插入位置]()
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [搜索插入位置](binary-search/search-insert-position.cpp)（26.01.21）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [搜索二维矩阵]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [在排序数组中查找元素的第一个和最后一个位置]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [搜索旋转排序数组]()
