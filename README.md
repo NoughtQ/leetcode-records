@@ -12,7 +12,7 @@
 
 题目难度徽章：![](https://img.shields.io/badge/简单-brightgreen) ![](https://img.shields.io/badge/中等-yellow) ![](https://img.shields.io/badge/困难-red)
 
-## 进度（17/100）
+## 进度（18/100）
 
 ### 哈希
 
@@ -139,7 +139,7 @@
 ### 动态规划
 
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [爬楼梯](dynamic-programming/climbing-stairs.cpp)（26.01.22）
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [杨辉三角]()
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [杨辉三角](dynamic-programming/pascals-triangle.cpp)（26.01.22）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [打家劫舍]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [完全平方数]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [零钱兑换]()
