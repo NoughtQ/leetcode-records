@@ -1,5 +1,7 @@
 # LeetCode 热题 100 刷题记录
 
+题集链接：<https://leetcode.cn/studyplan/top-100-liked/>
+
 ## 动机
 
 其实在 25 年上半年，我用 Python 写过一点 Hot 100 的简单和中等题。但当时也只是囫囵吞枣般地过了一遍，再加上 Python 本身过于友好的语法，因此实际上我并没有从这次刷题中学到点什么。不出所料地，到了下半年再看这些题目的时候，我完全没了印象。眼看 26 年暑期实习近在咫尺，所以这一次我至少必须把每一道题认真过一遍，让脑子转起来，正所谓“流水不腐，户枢不蠹”，以应对不久后的算法面试题。
@@ -10,7 +12,7 @@
 
 题目难度徽章：![](https://img.shields.io/badge/简单-brightgreen) ![](https://img.shields.io/badge/中等-yellow) ![](https://img.shields.io/badge/困难-red)
 
-## 进度（16/100）
+## 进度（17/100）
 
 ### 哈希
 
@@ -136,7 +138,7 @@
 
 ### 动态规划
 
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [爬楼梯]()
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [爬楼梯](dynamic-programming/climbing-stairs.cpp)（26.01.22）
 - [ ] ![](https://img.shields.io/badge/简单-brightgreen) [杨辉三角]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [打家劫舍]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [完全平方数]()
