@@ -12,7 +12,7 @@
 
 题目难度徽章：![](https://img.shields.io/badge/简单-brightgreen) ![](https://img.shields.io/badge/中等-yellow) ![](https://img.shields.io/badge/困难-red)
 
-## 进度（18/100）
+## 进度（19/100）
 
 ### 哈希
 
@@ -159,7 +159,7 @@
 
 ### 技巧
 
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [只出现一次的数字]()
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [只出现一次的数字](trick/single-number.cpp)（26.01.22）
 - [ ] ![](https://img.shields.io/badge/简单-brightgreen) [多数元素]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [颜色分类]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [下一个排列]()
