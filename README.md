@@ -12,13 +12,13 @@
 
 题目难度徽章：![](https://img.shields.io/badge/简单-brightgreen) ![](https://img.shields.io/badge/中等-yellow) ![](https://img.shields.io/badge/困难-red)
 
-## 进度（21/100）
+## 进度（22/100）
 
 ### 哈希
 
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [两数之和](hash/two-sum.cpp)（25.12.23）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [字母异位词分组](hash/group-anagrams.cpp)（26.01.23）
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [最长连续序列]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [最长连续序列](hash/longest-consecutive-sequence.cpp)（26.01.23）（看题解后才做出来的）
 
 ### 双指针
 
