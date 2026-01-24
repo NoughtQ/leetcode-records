@@ -12,7 +12,7 @@
 
 题目难度徽章：![](https://img.shields.io/badge/简单-brightgreen) ![](https://img.shields.io/badge/中等-yellow) ![](https://img.shields.io/badge/困难-red)
 
-## 进度（23/100）
+## 进度（24/100）
 
 ### 哈希
 
@@ -24,7 +24,7 @@
 
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [移动零](double-pointers/move-zeroes.cpp)（26.01.02）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [盛最多的水](double-pointers/container-with-most-water.cpp)（26.01.23）
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [三数之和]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [三数之和](double-pointers/3sum.cpp)（26.01.24）
 - [ ] ![](https://img.shields.io/badge/困难-red) [接雨水]()
 
 ### 滑动窗口
