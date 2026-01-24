@@ -12,7 +12,14 @@
 
 题目难度徽章：![](https://img.shields.io/badge/简单-brightgreen) ![](https://img.shields.io/badge/中等-yellow) ![](https://img.shields.io/badge/困难-red)
 
-## 进度（24/100）
+每天的做题速度（三选一）：
+
+- 4 道简单题（已结束）
+- 3 道中等题
+- 1 道中等题 + 1 道困难题
+
+
+## 进度（25/100）
 
 ### 哈希
 
@@ -24,8 +31,8 @@
 
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [移动零](double-pointers/move-zeroes.cpp)（26.01.02）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [盛最多的水](double-pointers/container-with-most-water.cpp)（26.01.23）
-- [x] ![](https://img.shields.io/badge/中等-yellow) [三数之和](double-pointers/3sum.cpp)（26.01.24）
-- [ ] ![](https://img.shields.io/badge/困难-red) [接雨水]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [三数之和](double-pointers/3sum.cpp)（26.01.24）（看题解后才做出来的）
+- [x] ![](https://img.shields.io/badge/困难-red) [接雨水](double-pointers/trapping-rain-water.cpp)（26.01.24）（看题解后才做出来的）
 
 ### 滑动窗口
 
