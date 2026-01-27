@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（29/100）
+## 进度（30/100）
 
 ### 哈希
 
@@ -47,7 +47,7 @@
 
 ### 普通数组
 
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [最大子数组和]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [最大子数组和](https://leetcode.cn/problems/maximum-subarray)（26.01.27）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [合并区间]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [轮转数组]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [除自身以外数组的乘积]()
