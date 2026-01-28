@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（30/100）
+## 进度（31/100）
 
 ### 哈希
 
@@ -43,7 +43,7 @@
 
 - [x] ![](https://img.shields.io/badge/中等-yellow) [和为 K 的子数组](substring/subarray-sum-equals-k.cpp)（26.01.25）（看题解后才做出来的）
 - [x] ![](https://img.shields.io/badge/困难-red) [滑动窗口最大值](substring/sliding-window-maximum.cpp)（26.01.27）
-- [ ] ![](https://img.shields.io/badge/困难-red) [最小覆盖子串]()
+- [x] ![](https://img.shields.io/badge/困难-red) [最小覆盖子串](substring/sliding-window-maximum.cpp)（26.01.28）
 
 ### 普通数组
 

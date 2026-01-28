@@ -16,7 +16,7 @@ public:
             ++s_count[s[i]];
         }
 
-        if (s_count == t) {
+        if (s_count == p_count) {
             ans.push_back(0);
         }
 
