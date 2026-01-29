@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（32/100）
+## 进度（33/100）
 
 ### 哈希
 
@@ -49,7 +49,7 @@
 
 - [x] ![](https://img.shields.io/badge/中等-yellow) [最大子数组和](plain-array/maximum-subarray.cpp)（26.01.27）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [合并区间](plain-array/merge-intervals.cpp)（26.01.28）
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [轮转数组]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [轮转数组](plain-array/rotate-array.cpp)（26.01.29）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [除自身以外数组的乘积]()
 - [ ] ![](https://img.shields.io/badge/困难-red) [缺失的第一个正数]()
 
