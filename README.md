@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（35/100）
+## 进度（36/100）
 
 ### 哈希
 
@@ -51,7 +51,7 @@
 - [x] ![](https://img.shields.io/badge/中等-yellow) [合并区间](plain-array/merge-intervals.cpp)（26.01.28）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [轮转数组](plain-array/rotate-array.cpp)（26.01.29）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [除自身以外数组的乘积](plain-array/product-of-array-except-self.cpp)（26.01.29）
-- [ ] ![](https://img.shields.io/badge/困难-red) [缺失的第一个正数]()
+- [x] ![](https://img.shields.io/badge/困难-red) [缺失的第一个正数](plain-array/first-missing-positive.cpp)（26.01.30）（看题解后才做出来的）
 
 ### 矩阵
 
