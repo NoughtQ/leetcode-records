@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（37/100）
+## 进度（38/100）
 
 ### 哈希
 
@@ -57,7 +57,7 @@
 
 - [x] ![](https://img.shields.io/badge/中等-yellow) [矩阵置零](matrix/set-matrix-zeroes.cpp)（26.01.29）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [螺旋矩阵](matrix/spiral-matrix.cpp)（26.01.30）
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [旋转图像]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [旋转图像](matrix/rotate-image.cpp)（26.01.31）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [搜索二维矩阵 II]()
 
 ### 链表
