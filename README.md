@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（44/100）
+## 进度（45/100）
 
 ### 哈希
 
@@ -72,7 +72,7 @@
 - [x] ![](https://img.shields.io/badge/中等-yellow) [删除链表的倒数第 N 个节点](linked-list/remove-nth-node-from-end-of-list.cpp)（26.02.01）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [两两交换链表中的节点](linked-list/swap-nodes-in-pairs.cpp)（26.02.01）
 - [x] ![](https://img.shields.io/badge/困难-red) [K 个一组翻转链表](linked-list/reverse-nodes-in-k-group.cpp)（26.02.02）
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [随机链表的复制]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [随机链表的复制](linked-list/copy-list-with-random-pointer.cpp)（26.02.02）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [排序链表]()
 - [ ] ![](https://img.shields.io/badge/困难-red) [合成 K 个升序列表]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [LRU 缓存]()
