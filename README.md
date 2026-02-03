@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（46/100）
+## 进度（47/100）
 
 ### 哈希
 
@@ -74,7 +74,7 @@
 - [x] ![](https://img.shields.io/badge/困难-red) [K 个一组翻转链表](linked-list/reverse-nodes-in-k-group.cpp)（26.02.02）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [随机链表的复制](linked-list/copy-list-with-random-pointer.cpp)（26.02.02）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [排序链表](linked-list/sort-list.cpp)（26.02.03）（看题解后才做出来的）
-- [ ] ![](https://img.shields.io/badge/困难-red) [合成 K 个升序列表]()
+- [x] ![](https://img.shields.io/badge/困难-red) [合成 K 个升序列表](linked-list/merge-k-sorted-lists.cpp)（26.02.03）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [LRU 缓存]()
 
 ### 二叉树
