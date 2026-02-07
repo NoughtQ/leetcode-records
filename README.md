@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（49/100）
+## 进度（50/100）
 
 ### 哈希
 
@@ -86,7 +86,7 @@
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的直径](binary-tree/diameter-of-binary-tree.cpp)（26.01.20）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [二叉树的层序遍历](binary-tree/binary-tree-level-order-traversal.cpp)（26.02.07）
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [将有序数组转换为二叉搜索树](binary-tree/convert-sorted-array-to-binary-search-tree.cpp)（26.01.21）
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [验证二叉搜索树]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [验证二叉搜索树](binary-tree/validate-binary-search-tree.cpp)（26.02.07）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉搜索树中第 K 小的元素]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉树的右视图]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉树展开为链表]()
