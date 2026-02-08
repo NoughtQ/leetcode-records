@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（52/100）
+## 进度（53/100）
 
 ### 哈希
 
@@ -89,7 +89,7 @@
 - [x] ![](https://img.shields.io/badge/中等-yellow) [验证二叉搜索树](binary-tree/validate-binary-search-tree.cpp)（26.02.07）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [二叉搜索树中第 K 小的元素](binary-tree/kth-smallest-element-in-a-bst.cpp)（26.02.08）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [二叉树的右视图](binary-tree/binary-tree-right-side-view.cpp)（26.02.08）
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉树展开为链表]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [二叉树展开为链表](binary-tree/flatten-binary-tree-to-linked-list.cpp)（26.02.08）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [从前序与中序遍历序列构造二叉树]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [路径总和 III]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉树的最近公共祖先]()
