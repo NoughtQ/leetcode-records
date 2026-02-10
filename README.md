@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（56/100）
+## 进度（57/100）
 
 ### 哈希
 
@@ -93,7 +93,7 @@
 - [x] ![](https://img.shields.io/badge/中等-yellow) [从前序与中序遍历序列构造二叉树](binary-tree/construct-binary-tree-from-preorder-and-inorder-traversal.cpp)（26.02.09）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [路径总和 III](binary-tree/path-sum-iii.cpp)（26.02.09）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [二叉树的最近公共祖先](binary-tree/lowest-common-ancestor-of-a-binary-tree.cpp)（26.02.09）
-- [ ] ![](https://img.shields.io/badge/困难-red) [二叉树中的最大路径和]()
+- [x] ![](https://img.shields.io/badge/困难-red) [二叉树中的最大路径和](binary-tree/binary-tree-maximum-path-sum.cpp)（26.02.10）（看题解后做出来的）
 
 ### 图论
 
