@@ -97,7 +97,7 @@
 
 ### 图论
 
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [岛屿数量]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [岛屿数量](graph/number-of-islands.cpp)（26.02.10）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [腐烂的橘子]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [课程表]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [实现 Trie（前缀树）]()
