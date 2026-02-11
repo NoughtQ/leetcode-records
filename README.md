@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（59/100）
+## 进度（60/100）
 
 ### 哈希
 
@@ -99,7 +99,7 @@
 
 - [x] ![](https://img.shields.io/badge/中等-yellow) [岛屿数量](graph/number-of-islands.cpp)（26.02.10）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [腐烂的橘子](graph/rotting-oranges.cpp)（26.02.11）（看题解后做出来的）
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [课程表]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [课程表](graph/course-schedule.cpp)（26.02.11）（看题解后做出来的）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [实现 Trie（前缀树）]()
 
 ### 回溯
