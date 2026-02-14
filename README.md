@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（66/100）
+## 进度（67/100）
 
 ### 哈希
 
@@ -109,7 +109,7 @@
 - [x] ![](https://img.shields.io/badge/中等-yellow) [电话号码的字母组合](backtracking/letter-combinations-of-a-phone-number.cpp)（26.02.12）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [组合总和](backtracking/combination-sum.cpp)（26.02.14）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [括号生成](backtracking/generate-parentheses.cpp)（26.02.14）
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [单词搜索]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [单词搜索](backtracking/word-search.cpp)（26.02.14）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [分割回文串]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [N 皇后]()
 
