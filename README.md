@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（68/100）
+## 进度（69/100）
 
 ### 哈希
 
@@ -111,7 +111,7 @@
 - [x] ![](https://img.shields.io/badge/中等-yellow) [括号生成](backtracking/generate-parentheses.cpp)（26.02.14）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [单词搜索](backtracking/word-search.cpp)（26.02.14）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [分割回文串](backtracking/palindrome-partitioning.cpp)（26.02.15）
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [N 皇后]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [N 皇后](backtracking/n-queens.cpp)（26.02.15）
 
 ### 二分查找
 
