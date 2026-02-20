@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（74/100）
+## 进度（76/100）
 
 ### 哈希
 
@@ -126,7 +126,7 @@
 
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [有效的括号](stack/valid-parentheses.cpp)（26.01.21）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [最小栈](stack/min-stack.cpp)（26.02.20）
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [字符串解码]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [字符串解码](stack/decode-string.cpp)（26.02.20）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [每日温度]()
 - [ ] ![](https://img.shields.io/badge/困难-red) [柱状图中最大的矩形]()
 
