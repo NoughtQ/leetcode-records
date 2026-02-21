@@ -8,7 +8,7 @@
 
 这次我特地开了个仓库，一来是为了督促自己，有一个进度表列在这里；二来是为确保彻底搞懂每道题，把做题思路记录下来（不仅是代码，还附上一些必要的注释和参考资料），也便于将来复习。
 
-预计在 2026 年 3 月初将所有题大致刷一遍（使用 C++）。
+预计在 2026 年 3 月初能够所有题大致刷一遍（使用 C++）。
 
 题目难度徽章：![](https://img.shields.io/badge/简单-brightgreen) ![](https://img.shields.io/badge/中等-yellow) ![](https://img.shields.io/badge/困难-red)
 
@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（77/100）
+## 进度（78/100）
 
 ### 哈希
 
@@ -128,7 +128,7 @@
 - [x] ![](https://img.shields.io/badge/中等-yellow) [最小栈](stack/min-stack.cpp)（26.02.20）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [字符串解码](stack/decode-string.cpp)（26.02.20）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [每日温度](stack/daily-temperatures.cpp)（26.02.20）
-- [ ] ![](https://img.shields.io/badge/困难-red) [柱状图中最大的矩形]()
+- [x] ![](https://img.shields.io/badge/困难-red) [柱状图中最大的矩形](stack/largest-rectangle-in-histogram.cpp)（26.02.21）
 
 ### 堆
 
@@ -174,4 +174,5 @@
 
 ## 参考资料
 
-- [cppreference](https://cppreference.com/)：最权威的参考资料！
+- [cppreference](https://cppreference.com/)（最权威的参考资料！）
+- [分享｜如何科学刷题？](https://leetcode.cn/discuss/post/3141566/ru-he-ke-xue-shua-ti-by-endlesscheng-q3yd/)（赞美灵神！）
