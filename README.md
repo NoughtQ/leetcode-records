@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（81/100）
+## 进度（82/100）
 
 ### 哈希
 
@@ -139,7 +139,7 @@
 ### 贪心算法
 
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [买卖股票的最佳时机](greedy-algorithm/best-time-to-buy-and-sell-stock.cpp)（26.01.21）
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [跳跃游戏]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [跳跃游戏](greedy-algorithm/jump-game.cpp)（26.02.23）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [跳跃游戏 II]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [划分字母区间]()
 
