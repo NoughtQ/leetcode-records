@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（84/100）
+## 进度（85/100）
 
 ### 哈希
 
@@ -147,7 +147,7 @@
 
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [爬楼梯](dynamic-programming/climbing-stairs.cpp)（26.01.22）
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [杨辉三角](dynamic-programming/pascals-triangle.cpp)（26.01.22）
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [打家劫舍]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [打家劫舍](dynamic-programming/house-robber.cpp)（26.02.24）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [完全平方数]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [零钱兑换]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [单词拆分]()
