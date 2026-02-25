@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（87/100）
+## 进度（88/100）
 
 ### 哈希
 
@@ -150,7 +150,7 @@
 - [x] ![](https://img.shields.io/badge/中等-yellow) [打家劫舍](dynamic-programming/house-robber.cpp)（26.02.24）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [完全平方数](dynamic-programming/perfect-squares.cpp)（26.02.24）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [零钱兑换](dynamic-programming/coin-change.cpp)（26.02.24）
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [单词拆分]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [单词拆分](dynamic-programming/word-break.cpp)（26.02.25）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [最长递增子序列]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [乘积最大子数组]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [分割等和子集]()
