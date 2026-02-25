@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（89/100）
+## 进度（90/100）
 
 ### 哈希
 
@@ -152,7 +152,7 @@
 - [x] ![](https://img.shields.io/badge/中等-yellow) [零钱兑换](dynamic-programming/coin-change.cpp)（26.02.24）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [单词拆分](dynamic-programming/word-break.cpp)（26.02.25）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [最长递增子序列](dynamic-programming/longest-increasing-subsequence.cpp)（26.02.25）（看题解后做出来的）
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [乘积最大子数组]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [乘积最大子数组](dynamic-programming/maximum-product-subarray.cpp)（26.02.25）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [分割等和子集]()
 - [ ] ![](https://img.shields.io/badge/困难-red) [最长有效括号]()
 
