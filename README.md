@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（91/100）
+## 进度（92/100）
 
 ### 哈希
 
@@ -154,7 +154,7 @@
 - [x] ![](https://img.shields.io/badge/中等-yellow) [最长递增子序列](dynamic-programming/longest-increasing-subsequence.cpp)（26.02.25）（看题解后做出来的）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [乘积最大子数组](dynamic-programming/maximum-product-subarray.cpp)（26.02.25）（看题解后做出来的）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [分割等和子集](dynamic-programming/partition-equal-subset-sum.cpp)（26.02.26）（看题解后做出来的）
-- [ ] ![](https://img.shields.io/badge/困难-red) [最长有效括号]()
+- [x] ![](https://img.shields.io/badge/困难-red) [最长有效括号](dynamic-programming/longest-valid-parentheses.cpp)（26.02.26）
 
 ### 多维动态规划
 
