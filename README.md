@@ -159,7 +159,7 @@
 ### 多维动态规划
 
 - [x] ![](https://img.shields.io/badge/中等-yellow) [不同路径](multidimensional-dynamic-programming/unique-paths.cpp)（26.02.27）
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [最小路径和]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [最小路径和](multidimensional-dynamic-programming/minimum-path-sum.cpp)（26.02.27）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [最长回文子串]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [最长公共子序列]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [编辑距离]()
