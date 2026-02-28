@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（95/100）
+## 进度（96/100）
 
 ### 哈希
 
@@ -161,7 +161,7 @@
 - [x] ![](https://img.shields.io/badge/中等-yellow) [不同路径](multidimensional-dynamic-programming/unique-paths.cpp)（26.02.27）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [最小路径和](multidimensional-dynamic-programming/minimum-path-sum.cpp)（26.02.27）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [最长回文子串](multidimensional-dynamic-programming/longest-palindromic-substring.cpp)（26.02.28）（看题解后做出来的）
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [最长公共子序列]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [最长公共子序列](multidimensional-dynamic-programming/longest-common-subsequence.cpp)（26.02.28）（看提示后做出来的）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [编辑距离]()
 
 ### 技巧
