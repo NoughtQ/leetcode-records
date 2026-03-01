@@ -19,7 +19,7 @@
 - 1 道中等题 + 1 道困难题
 
 
-## 进度（97/100）
+## 进度（98/100）
 
 ### 哈希
 
@@ -168,7 +168,7 @@
 
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [只出现一次的数字](trick/single-number.cpp)（26.01.22）（看提示才做出来的）
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [多数元素](trick/majority-element.cpp)（26.01.22）（看题解才知道空间复杂度 O(1) 的做法）
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [颜色分类]()
+- [x] ![](https://img.shields.io/badge/中等-yellow) [颜色分类](trick/sort-colors.cpp)（26.03.01）（看提示才做出来的）
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [下一个排列]()
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [寻找重复数]()
 
