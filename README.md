@@ -18,8 +18,20 @@
 - 3 道中等题
 - 1 道中等题 + 1 道困难题
 
+---
+【3.1 更新】100 题成功刷了一遍了，先庆祝一下🥳。但毫不意外的是，之前遇到的一些难题怎么解已经忘得又差不多了hh。在开启正式的二轮刷题前，我想**先简单回顾这些题，看看自己是否能够立马想到正确的解法**。
 
-## 进度（100/100）
+- 如果能很快想到，就看看题解是否和自己的想法一致，无需动手敲出来
+- 如果遇到实在想不出来的题目，我会在这份 README 中标记出来，简单写一下解题思路，实在无法理解的话也得背出来💪
+
+目前的设想是每天看 10 道题，预计 3.11 结束（这之后应该准备面大厂了）。
+
+
+## 第一轮刷题进度（100/100）
+
+<details>
+
+<summary>点击展开/折叠内容</summary>
 
 ### 哈希
 
@@ -171,6 +183,163 @@
 - [x] ![](https://img.shields.io/badge/中等-yellow) [颜色分类](trick/sort-colors.cpp)（26.03.01）（看提示才做出来的）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [下一个排列](trick/next-permutation.cpp)（26.03.01）（看题解才做出来的）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [寻找重复数](trick/find-the-duplicate-number.cpp)（26.03.01）（看题解才做出来的）
+
+</details>
+
+
+## 回顾进度（0/100）
+
+### 哈希
+
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [两数之和](hash/two-sum.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [字母异位词分组](hash/group-anagrams.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [最长连续序列](hash/longest-consecutive-sequence.cpp)
+
+### 双指针
+
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [移动零](double-pointers/move-zeroes.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [盛最多的水](double-pointers/container-with-most-water.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [三数之和](double-pointers/3sum.cpp)
+- [ ] ![](https://img.shields.io/badge/困难-red) [接雨水](double-pointers/trapping-rain-water.cpp)
+
+### 滑动窗口
+
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [无重复的最长子串](sliding-window/longest-substring-without-repeating-characters.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [找到字符串中所有字母异位词](sliding-window/find-all-anagrams-in-a-string.cpp)
+
+### 子串
+
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [和为 K 的子数组](substring/subarray-sum-equals-k.cpp)
+- [ ] ![](https://img.shields.io/badge/困难-red) [滑动窗口最大值](substring/sliding-window-maximum.cpp)
+- [ ] ![](https://img.shields.io/badge/困难-red) [最小覆盖子串](substring/sliding-window-maximum.cpp)
+
+### 普通数组
+
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [最大子数组和](plain-array/maximum-subarray.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [合并区间](plain-array/merge-intervals.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [轮转数组](plain-array/rotate-array.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [除自身以外数组的乘积](plain-array/product-of-array-except-self.cpp)
+- [ ] ![](https://img.shields.io/badge/困难-red) [缺失的第一个正数](plain-array/first-missing-positive.cpp)
+
+### 矩阵
+
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [矩阵置零](matrix/set-matrix-zeroes.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [螺旋矩阵](matrix/spiral-matrix.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [旋转图像](matrix/rotate-image.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [搜索二维矩阵 II](matrix/search-a-2d-matrix-ii.cpp)
+
+### 链表
+
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [相交链表](linked-list/intersection-of-two-linked-lists.cpp)
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [反转链表](linked-list/reverse-linked-list.cpp)
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [回文链表](linked-list/palindrome-linked-list.cpp)
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [环形链表](linked-list/linked-list-cycle.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [环形链表 II](linked-list/linked-list-cycle-ii.cpp)
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [合并两个有序链表](linked-list/merge-two-sorted-lists.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [两数相加](linked-list/add-two-numbers.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [删除链表的倒数第 N 个节点](linked-list/remove-nth-node-from-end-of-list.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [两两交换链表中的节点](linked-list/swap-nodes-in-pairs.cpp)
+- [ ] ![](https://img.shields.io/badge/困难-red) [K 个一组翻转链表](linked-list/reverse-nodes-in-k-group.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [随机链表的复制](linked-list/copy-list-with-random-pointer.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [排序链表](linked-list/sort-list.cpp)
+- [ ] ![](https://img.shields.io/badge/困难-red) [合成 K 个升序列表](linked-list/merge-k-sorted-lists.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [LRU 缓存](linked-list/lru-cache.cpp)
+
+### 二叉树
+
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的中序遍历](binary-tree/binary-tree-inorder-traversal.cpp)
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的最大深度](binary-tree/maximum-depth-of-binary-tree.cpp)
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [翻转二叉树](binary-tree/invert-binary-tree.cpp)
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [对称二叉树](binary-tree/symmetric-tree.cpp)
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的直径](binary-tree/diameter-of-binary-tree.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉树的层序遍历](binary-tree/binary-tree-level-order-traversal.cpp)
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [将有序数组转换为二叉搜索树](binary-tree/convert-sorted-array-to-binary-search-tree.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [验证二叉搜索树](binary-tree/validate-binary-search-tree.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉搜索树中第 K 小的元素](binary-tree/kth-smallest-element-in-a-bst.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉树的右视图](binary-tree/binary-tree-right-side-view.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉树展开为链表](binary-tree/flatten-binary-tree-to-linked-list.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [从前序与中序遍历序列构造二叉树](binary-tree/construct-binary-tree-from-preorder-and-inorder-traversal.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [路径总和 III](binary-tree/path-sum-iii.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉树的最近公共祖先](binary-tree/lowest-common-ancestor-of-a-binary-tree.cpp)
+- [ ] ![](https://img.shields.io/badge/困难-red) [二叉树中的最大路径和](binary-tree/binary-tree-maximum-path-sum.cpp)
+
+### 图论
+
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [岛屿数量](graph/number-of-islands.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [腐烂的橘子](graph/rotting-oranges.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [课程表](graph/course-schedule.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [实现 Trie（前缀树）](graph/implement-trie-prefix-tree.cpp)
+
+### 回溯
+
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [全排列](backtracking/permutations.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [子集](backtracking/subsets.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [电话号码的字母组合](backtracking/letter-combinations-of-a-phone-number.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [组合总和](backtracking/combination-sum.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [括号生成](backtracking/generate-parentheses.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [单词搜索](backtracking/word-search.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [分割回文串](backtracking/palindrome-partitioning.cpp)
+- [ ] ![](https://img.shields.io/badge/困难-red) [N 皇后](backtracking/n-queens.cpp)
+
+### 二分查找
+
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [搜索插入位置](binary-search/search-insert-position.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [搜索二维矩阵](binary-search/search-a-2d-matrix.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [在排序数组中查找元素的第一个和最后一个位置](binary-search/find-first-and-last-position-of-element-in-sorted-array.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [搜索旋转排序数组](binary-search/search-in-rotated-sorted-array.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [寻找旋转排序数组中的最小值](binary-search/find-minimum-in-rotated-sorted-array.cpp)
+- [ ] ![](https://img.shields.io/badge/困难-red) [寻找两个正序数组的中位数](binary-search/median-of-two-sorted-arrays.cpp)
+
+### 栈
+
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [有效的括号](stack/valid-parentheses.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [最小栈](stack/min-stack.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [字符串解码](stack/decode-string.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [每日温度](stack/daily-temperatures.cpp)
+- [ ] ![](https://img.shields.io/badge/困难-red) [柱状图中最大的矩形](stack/largest-rectangle-in-histogram.cpp)
+
+### 堆
+
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [数组中的第 K 个最大元素](heap/kth-largest-element-in-an-array.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [前 K 个高频元素](heap/top-k-frequent-elements.cpp)
+- [ ] ![](https://img.shields.io/badge/困难-red) [数据流的中位数](heap/find-median-from-data-stream.cpp)
+
+### 贪心算法
+
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [买卖股票的最佳时机](greedy-algorithm/best-time-to-buy-and-sell-stock.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [跳跃游戏](greedy-algorithm/jump-game.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [跳跃游戏 II](greedy-algorithm/jump-game-ii.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [划分字母区间](greedy-algorithm/partition-labels.cpp)
+
+### 动态规划
+
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [爬楼梯](dynamic-programming/climbing-stairs.cpp)
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [杨辉三角](dynamic-programming/pascals-triangle.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [打家劫舍](dynamic-programming/house-robber.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [完全平方数](dynamic-programming/perfect-squares.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [零钱兑换](dynamic-programming/coin-change.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [单词拆分](dynamic-programming/word-break.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [最长递增子序列](dynamic-programming/longest-increasing-subsequence.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [乘积最大子数组](dynamic-programming/maximum-product-subarray.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [分割等和子集](dynamic-programming/partition-equal-subset-sum.cpp)
+- [ ] ![](https://img.shields.io/badge/困难-red) [最长有效括号](dynamic-programming/longest-valid-parentheses.cpp)
+
+### 多维动态规划
+
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [不同路径](multidimensional-dynamic-programming/unique-paths.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [最小路径和](multidimensional-dynamic-programming/minimum-path-sum.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [最长回文子串](multidimensional-dynamic-programming/longest-palindromic-substring.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [最长公共子序列](multidimensional-dynamic-programming/longest-common-subsequence.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [编辑距离](multidimensional-dynamic-programming/edit-distance.cpp)
+
+### 技巧
+
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [只出现一次的数字](trick/single-number.cpp)
+- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [多数元素](trick/majority-element.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [颜色分类](trick/sort-colors.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [下一个排列](trick/next-permutation.cpp)
+- [ ] ![](https://img.shields.io/badge/中等-yellow) [寻找重复数](trick/find-the-duplicate-number.cpp)
+
 
 ## 参考资料
 
