@@ -4,22 +4,23 @@ class Solution {
 public:
     // Method 1: Traverse all elements, the water amount at the current height is 
     // the minimum of the highest heights on both sides - current height
-    // Time complexity: O(N^2) (cannot pass tests of large-scale data)
+    // Time Complexity: O(N)
+    // Space Complexity: O(N)
     int trap(vector<int>& height) {
         int n = height.size();
         int area = 0;
-        int l = 0, r = 1;
+        vector<int> lm(n, height[0]), rm(n, height[n - 1]);
 
-        for (int i = 1; i < n - 1; ++i) {
-            l = height[i];
-            r = height[i];
-            for (int j = i - 1; j >= 0; --j) {
-                l = max(height[j], l);
-            }
-            for (int k = i + 1; k < n; ++k) {
-                r = max(height[k], r);
-            }
-            area += max(0, min(l, r) - height[i]);
+        for (int i = 1; i < n; ++i) {
+            lm[i] = max(lm[i - 1], height[i]);
+        }
+
+        for (int i = n - 2; i >= 0; --i) {
+            rm[i] = max(rm[i + 1], height[i]);
+        }
+
+        for (int i = 0; i < n; ++i) {
+            area += min(lm[i], rm[i]) - height[i];
         }
 
         return area;
@@ -28,6 +29,7 @@ public:
     // Method 2: Double Pointers
     // It is recommended to draw some diagrams for better understanding of the code
     // Time Complexity: O(N)
+    // Space Complexity: O(1)
     int trap(vector<int>& height) {
         int n = height.size();
         int area = 0;

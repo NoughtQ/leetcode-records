@@ -19,6 +19,7 @@ public:
     }
 
     // Official Solution (modified): Use letter counts in strings as keys
+    // Problem: cannot handle the situation where the character appears more than 9 times
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
         unordered_map<string, vector<string>> t;
         vector<vector<string>> ans;
