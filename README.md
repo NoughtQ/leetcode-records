@@ -187,7 +187,7 @@
 </details>
 
 
-## 回顾进度（10/100）
+## 回顾进度（20/100）
 
 ### 哈希
 
@@ -209,17 +209,17 @@
 
 ### 子串
 
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [和为 K 的子数组](substring/subarray-sum-equals-k.cpp)
-- [ ] ![](https://img.shields.io/badge/困难-red) [滑动窗口最大值](substring/sliding-window-maximum.cpp)
-- [ ] ![](https://img.shields.io/badge/困难-red) [最小覆盖子串](substring/sliding-window-maximum.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [和为 K 的子数组](substring/subarray-sum-equals-k.cpp)（有遗忘）
+- [x] ![](https://img.shields.io/badge/困难-red) [滑动窗口最大值](substring/sliding-window-maximum.cpp)
+- [x] ![](https://img.shields.io/badge/困难-red) [最小覆盖子串](substring/sliding-window-maximum.cpp)（有遗忘）
 
 ### 普通数组
 
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [最大子数组和](plain-array/maximum-subarray.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [合并区间](plain-array/merge-intervals.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [轮转数组](plain-array/rotate-array.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [除自身以外数组的乘积](plain-array/product-of-array-except-self.cpp)
-- [ ] ![](https://img.shields.io/badge/困难-red) [缺失的第一个正数](plain-array/first-missing-positive.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [最大子数组和](plain-array/maximum-subarray.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [合并区间](plain-array/merge-intervals.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [轮转数组](plain-array/rotate-array.cpp)（有遗忘）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [除自身以外数组的乘积](plain-array/product-of-array-except-self.cpp)（有遗忘）
+- [x] ![](https://img.shields.io/badge/困难-red) [缺失的第一个正数](plain-array/first-missing-positive.cpp)（有遗忘）
 
 ### 矩阵
 
