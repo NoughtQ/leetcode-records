@@ -187,7 +187,7 @@
 </details>
 
 
-## 回顾进度（20/100）
+## 回顾进度（30/100）
 
 ### 哈希
 
@@ -223,19 +223,19 @@
 
 ### 矩阵
 
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [矩阵置零](matrix/set-matrix-zeroes.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [螺旋矩阵](matrix/spiral-matrix.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [旋转图像](matrix/rotate-image.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [搜索二维矩阵 II](matrix/search-a-2d-matrix-ii.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [矩阵置零](matrix/set-matrix-zeroes.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [螺旋矩阵](matrix/spiral-matrix.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [旋转图像](matrix/rotate-image.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [搜索二维矩阵 II](matrix/search-a-2d-matrix-ii.cpp)
 
 ### 链表
 
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [相交链表](linked-list/intersection-of-two-linked-lists.cpp)
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [反转链表](linked-list/reverse-linked-list.cpp)
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [回文链表](linked-list/palindrome-linked-list.cpp)
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [环形链表](linked-list/linked-list-cycle.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [环形链表 II](linked-list/linked-list-cycle-ii.cpp)
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [合并两个有序链表](linked-list/merge-two-sorted-lists.cpp)
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [相交链表](linked-list/intersection-of-two-linked-lists.cpp)（有遗忘）
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [反转链表](linked-list/reverse-linked-list.cpp)
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [回文链表](linked-list/palindrome-linked-list.cpp)
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [环形链表](linked-list/linked-list-cycle.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [环形链表 II](linked-list/linked-list-cycle-ii.cpp)
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [合并两个有序链表](linked-list/merge-two-sorted-lists.cpp)
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [两数相加](linked-list/add-two-numbers.cpp)
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [删除链表的倒数第 N 个节点](linked-list/remove-nth-node-from-end-of-list.cpp)
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [两两交换链表中的节点](linked-list/swap-nodes-in-pairs.cpp)

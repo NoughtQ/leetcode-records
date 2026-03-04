@@ -7,15 +7,17 @@ public:
     // Space Complexity: O(1)
     bool searchMatrix(vector<vector<int>>& matrix, int target) {
         int m = matrix.size(), n = matrix[0].size();
-        int cnt = n;
 
-        for (int i = 0; i < m; ++i) {
-            int j = 0;
-            while (j < cnt && target > matrix[i][j]) ++j;
-            if (j != cnt && target == matrix[i][j]) return true;
-            if (j == cnt) --j;
-            cnt = j + 1;
-        }
+        int x = 0, y = n - 1;
+        while (x < m && y >= 0) {
+            if (matrix[x][y] == target) {
+                return true;
+            } else if (matrix[x][y] > target) {
+                --y;
+            } else {
+                ++x;
+            }
+        } 
 
         return false;
     }
