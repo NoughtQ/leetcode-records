@@ -22,27 +22,18 @@ public:
     // Time Complexity: O(n)
     // Space Complexity: O(n)
     Node* copyRandomList(Node* head) {
-        Node *cur = head, *newHead = nullptr, *tmp;
-        vector<Node*> table;
-        unordered_map<Node*, int> mp;
-        int cnt = 0;
+        unordered_map<Node*, Node*> mp;
 
-        while (cur != nullptr) {
-            tmp = new Node(cur->val);
-            table.push_back(tmp);
-            mp[cur] = cnt++;
-            if (cur == head) newHead = tmp;
-            cur = cur->next;
+        for (Node *cur = head; cur != nullptr; cur = cur->next) {
+            mp[cur] = new Node(cur->val);
         }
 
-        cur = head;
-        for (int i = 0; i < table.size(); ++i) {
-            table[i]->next = (i != table.size() - 1) ? table[i + 1] : nullptr;
-            table[i]->random = (cur->random != nullptr) ? table[mp[cur->random]] : nullptr;
-            cur = cur->next;
+        for (Node *cur = head; cur != nullptr; cur = cur->next) {
+            mp[cur]->next = mp[cur->next];
+            mp[cur]->random = mp[cur->random];
         }
 
-        return newHead;
+        return mp[head];
     }
 
     // Method 2: Insert copy node just next to the original node

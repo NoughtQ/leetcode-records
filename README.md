@@ -187,7 +187,7 @@
 </details>
 
 
-## 回顾进度（30/100）
+## 回顾进度（40/100）
 
 ### 哈希
 
@@ -230,25 +230,30 @@
 
 ### 链表
 
+方法：
+
+- 记住反转链表的做法
+- 双指针（快慢指针等）
+
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [相交链表](linked-list/intersection-of-two-linked-lists.cpp)（有遗忘）
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [反转链表](linked-list/reverse-linked-list.cpp)
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [回文链表](linked-list/palindrome-linked-list.cpp)
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [环形链表](linked-list/linked-list-cycle.cpp)
 - [x] ![](https://img.shields.io/badge/中等-yellow) [环形链表 II](linked-list/linked-list-cycle-ii.cpp)
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [合并两个有序链表](linked-list/merge-two-sorted-lists.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [两数相加](linked-list/add-two-numbers.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [删除链表的倒数第 N 个节点](linked-list/remove-nth-node-from-end-of-list.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [两两交换链表中的节点](linked-list/swap-nodes-in-pairs.cpp)
-- [ ] ![](https://img.shields.io/badge/困难-red) [K 个一组翻转链表](linked-list/reverse-nodes-in-k-group.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [随机链表的复制](linked-list/copy-list-with-random-pointer.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [排序链表](linked-list/sort-list.cpp)
-- [ ] ![](https://img.shields.io/badge/困难-red) [合成 K 个升序列表](linked-list/merge-k-sorted-lists.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [LRU 缓存](linked-list/lru-cache.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [两数相加](linked-list/add-two-numbers.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [删除链表的倒数第 N 个节点](linked-list/remove-nth-node-from-end-of-list.cpp)（有遗忘）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [两两交换链表中的节点](linked-list/swap-nodes-in-pairs.cpp)
+- [x] ![](https://img.shields.io/badge/困难-red) [K 个一组翻转链表](linked-list/reverse-nodes-in-k-group.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [随机链表的复制](linked-list/copy-list-with-random-pointer.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [排序链表](linked-list/sort-list.cpp)（空间复杂度 $O(1)$ 方法有遗忘）
+- [x] ![](https://img.shields.io/badge/困难-red) [合成 K 个升序列表](linked-list/merge-k-sorted-lists.cpp)（有遗忘）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [LRU 缓存](linked-list/lru-cache.cpp)
 
 ### 二叉树
 
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的中序遍历](binary-tree/binary-tree-inorder-traversal.cpp)
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的最大深度](binary-tree/maximum-depth-of-binary-tree.cpp)
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的中序遍历](binary-tree/binary-tree-inorder-traversal.cpp)
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的最大深度](binary-tree/maximum-depth-of-binary-tree.cpp)
 - [ ] ![](https://img.shields.io/badge/简单-brightgreen) [翻转二叉树](binary-tree/invert-binary-tree.cpp)
 - [ ] ![](https://img.shields.io/badge/简单-brightgreen) [对称二叉树](binary-tree/symmetric-tree.cpp)
 - [ ] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的直径](binary-tree/diameter-of-binary-tree.cpp)
