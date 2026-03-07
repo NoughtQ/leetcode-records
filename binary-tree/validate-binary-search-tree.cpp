@@ -48,7 +48,18 @@ public:
         return node->val;
     }
 
-    // Method 2: Inorder Traversal
+    // Method 2: More Simple Recursion
+    bool isValidBST(TreeNode* root) {
+        return check(root, LONG_MIN, LONG_MAX);
+    }
+
+    bool check(TreeNode *node, long long lower, long long upper) {
+        if (!node) return true;
+        if (node->val <= lower || node->val >= upper) return false;
+        return check(node->left, lower, node->val) && check(node->right, node->val, upper);
+    }
+
+    // Method 3: Inorder Traversal
     // Time Complexity: O(n)
     // Space Complexity: O(n)
     vector<int> traversalList;

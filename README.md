@@ -187,7 +187,7 @@
 </details>
 
 
-## 回顾进度（40/100）
+## 回顾进度（50/100）
 
 ### 哈希
 
@@ -254,16 +254,16 @@
 
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的中序遍历](binary-tree/binary-tree-inorder-traversal.cpp)
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的最大深度](binary-tree/maximum-depth-of-binary-tree.cpp)
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [翻转二叉树](binary-tree/invert-binary-tree.cpp)
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [对称二叉树](binary-tree/symmetric-tree.cpp)
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的直径](binary-tree/diameter-of-binary-tree.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉树的层序遍历](binary-tree/binary-tree-level-order-traversal.cpp)
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [将有序数组转换为二叉搜索树](binary-tree/convert-sorted-array-to-binary-search-tree.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [验证二叉搜索树](binary-tree/validate-binary-search-tree.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉搜索树中第 K 小的元素](binary-tree/kth-smallest-element-in-a-bst.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉树的右视图](binary-tree/binary-tree-right-side-view.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉树展开为链表](binary-tree/flatten-binary-tree-to-linked-list.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [从前序与中序遍历序列构造二叉树](binary-tree/construct-binary-tree-from-preorder-and-inorder-traversal.cpp)
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [翻转二叉树](binary-tree/invert-binary-tree.cpp)
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [对称二叉树](binary-tree/symmetric-tree.cpp)
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [二叉树的直径](binary-tree/diameter-of-binary-tree.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [二叉树的层序遍历](binary-tree/binary-tree-level-order-traversal.cpp)
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [将有序数组转换为二叉搜索树](binary-tree/convert-sorted-array-to-binary-search-tree.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [验证二叉搜索树](binary-tree/validate-binary-search-tree.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [二叉搜索树中第 K 小的元素](binary-tree/kth-smallest-element-in-a-bst.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [二叉树的右视图](binary-tree/binary-tree-right-side-view.cpp)（有遗忘）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [二叉树展开为链表](binary-tree/flatten-binary-tree-to-linked-list.cpp)（「寻找前驱节点」方法有遗忘）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [从前序与中序遍历序列构造二叉树](binary-tree/construct-binary-tree-from-preorder-and-inorder-traversal.cpp)
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [路径总和 III](binary-tree/path-sum-iii.cpp)
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉树的最近公共祖先](binary-tree/lowest-common-ancestor-of-a-binary-tree.cpp)
 - [ ] ![](https://img.shields.io/badge/困难-red) [二叉树中的最大路径和](binary-tree/binary-tree-maximum-path-sum.cpp)
