@@ -187,7 +187,7 @@
 </details>
 
 
-## 回顾进度（50/100）
+## 回顾进度（60/100）
 
 ### 哈希
 
@@ -264,22 +264,22 @@
 - [x] ![](https://img.shields.io/badge/中等-yellow) [二叉树的右视图](binary-tree/binary-tree-right-side-view.cpp)（有遗忘）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [二叉树展开为链表](binary-tree/flatten-binary-tree-to-linked-list.cpp)（「寻找前驱节点」方法有遗忘）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [从前序与中序遍历序列构造二叉树](binary-tree/construct-binary-tree-from-preorder-and-inorder-traversal.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [路径总和 III](binary-tree/path-sum-iii.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [二叉树的最近公共祖先](binary-tree/lowest-common-ancestor-of-a-binary-tree.cpp)
-- [ ] ![](https://img.shields.io/badge/困难-red) [二叉树中的最大路径和](binary-tree/binary-tree-maximum-path-sum.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [路径总和 III](binary-tree/path-sum-iii.cpp)（前缀和方法有遗忘）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [二叉树的最近公共祖先](binary-tree/lowest-common-ancestor-of-a-binary-tree.cpp)
+- [x] ![](https://img.shields.io/badge/困难-red) [二叉树中的最大路径和](binary-tree/binary-tree-maximum-path-sum.cpp)（有遗忘）
 
 ### 图论
 
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [岛屿数量](graph/number-of-islands.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [腐烂的橘子](graph/rotting-oranges.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [课程表](graph/course-schedule.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [实现 Trie（前缀树）](graph/implement-trie-prefix-tree.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [岛屿数量](graph/number-of-islands.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [腐烂的橘子](graph/rotting-oranges.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [课程表](graph/course-schedule.cpp)（有遗忘）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [实现 Trie（前缀树）](graph/implement-trie-prefix-tree.cpp)（有遗忘）
 
 ### 回溯
 
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [全排列](backtracking/permutations.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [子集](backtracking/subsets.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [电话号码的字母组合](backtracking/letter-combinations-of-a-phone-number.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [全排列](backtracking/permutations.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [子集](backtracking/subsets.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [电话号码的字母组合](backtracking/letter-combinations-of-a-phone-number.cpp)
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [组合总和](backtracking/combination-sum.cpp)
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [括号生成](backtracking/generate-parentheses.cpp)
 - [ ] ![](https://img.shields.io/badge/中等-yellow) [单词搜索](backtracking/word-search.cpp)
