@@ -187,7 +187,7 @@
 </details>
 
 
-## 回顾进度（60/100）
+## 回顾进度（70/100）
 
 ### 哈希
 
@@ -280,19 +280,19 @@
 - [x] ![](https://img.shields.io/badge/中等-yellow) [全排列](backtracking/permutations.cpp)
 - [x] ![](https://img.shields.io/badge/中等-yellow) [子集](backtracking/subsets.cpp)
 - [x] ![](https://img.shields.io/badge/中等-yellow) [电话号码的字母组合](backtracking/letter-combinations-of-a-phone-number.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [组合总和](backtracking/combination-sum.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [括号生成](backtracking/generate-parentheses.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [单词搜索](backtracking/word-search.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [分割回文串](backtracking/palindrome-partitioning.cpp)
-- [ ] ![](https://img.shields.io/badge/困难-red) [N 皇后](backtracking/n-queens.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [组合总和](backtracking/combination-sum.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [括号生成](backtracking/generate-parentheses.cpp)（有遗忘）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [单词搜索](backtracking/word-search.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [分割回文串](backtracking/palindrome-partitioning.cpp)（有遗忘）
+- [x] ![](https://img.shields.io/badge/困难-red) [N 皇后](backtracking/n-queens.cpp)
 
 ### 二分查找
 
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [搜索插入位置](binary-search/search-insert-position.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [搜索二维矩阵](binary-search/search-a-2d-matrix.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [在排序数组中查找元素的第一个和最后一个位置](binary-search/find-first-and-last-position-of-element-in-sorted-array.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [搜索旋转排序数组](binary-search/search-in-rotated-sorted-array.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [寻找旋转排序数组中的最小值](binary-search/find-minimum-in-rotated-sorted-array.cpp)
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [搜索插入位置](binary-search/search-insert-position.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [搜索二维矩阵](binary-search/search-a-2d-matrix.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [在排序数组中查找元素的第一个和最后一个位置](binary-search/find-first-and-last-position-of-element-in-sorted-array.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [搜索旋转排序数组](binary-search/search-in-rotated-sorted-array.cpp)（有遗忘）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [寻找旋转排序数组中的最小值](binary-search/find-minimum-in-rotated-sorted-array.cpp)（有遗忘）
 - [ ] ![](https://img.shields.io/badge/困难-red) [寻找两个正序数组的中位数](binary-search/median-of-two-sorted-arrays.cpp)
 
 ### 栈

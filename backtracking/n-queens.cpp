@@ -7,41 +7,30 @@ public:
     // Space Complexity: O(n^2)
     vector<vector<string>> ans;
     vector<string> board;
-    int nn;
-    vector<vector<bool>> is_placed;
+    vector<bool> col, diag1, diag2;
 
     vector<vector<string>> solveNQueens(int n) {
-        nn = n;
-        is_placed.resize(nn, vector<bool>(nn, false));
-        backtracking(0);
+        col.resize(n, false);
+        diag1.resize(2 * n - 1, false);
+        diag2.resize(2 * n - 1, false);
+        backtracking(0, n);
         return ans;
     }
 
-    void backtracking(int x) {
-        if (x == nn) {
-            ans.push_back(board);
+    void backtracking(int x, int n) {
+        if (x == n) {
+            ans.emplace_back(board);
             return;
         }
 
-        bool flag;
-        for (int i = 0; i < nn; ++i) {
-            flag = false;
-            for (int j = x - 1; j >= 0; --j) {
-                if (i + (x - j) < nn && is_placed[j][i + (x - j)] ||
-                    i - (x - j) >= 0 && is_placed[j][i - (x - j)] ||
-                    is_placed[j][i]
-                ) {
-                    flag = true;
-                    break;
-                }
-            }
-            if (flag) continue;
-
-            is_placed[x][i] = true;
-            board.push_back(rowString(i));
-            backtracking(x + 1);
+        for (int y = 0; y < n; ++y) {
+            if (col[y] || diag1[x + y] || diag2[x - y + n - 1])
+                continue;
+            col[y] = true; diag1[x + y] = true; diag2[x - y + n - 1] = true;
+            board.push_back(rowString(y, n));
+            backtracking(x + 1, n);
             board.pop_back();
-            is_placed[x][i] = false;
+            col[y] = false; diag1[x + y] = false; diag2[x - y + n - 1] = false;
         }
     }
 
