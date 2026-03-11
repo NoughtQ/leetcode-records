@@ -312,22 +312,22 @@
 ### 贪心算法
 
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [买卖股票的最佳时机](greedy-algorithm/best-time-to-buy-and-sell-stock.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [跳跃游戏](greedy-algorithm/jump-game.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [跳跃游戏 II](greedy-algorithm/jump-game-ii.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [划分字母区间](greedy-algorithm/partition-labels.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [跳跃游戏](greedy-algorithm/jump-game.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [跳跃游戏 II](greedy-algorithm/jump-game-ii.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [划分字母区间](greedy-algorithm/partition-labels.cpp)
 
 ### 动态规划
 
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [爬楼梯](dynamic-programming/climbing-stairs.cpp)
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [杨辉三角](dynamic-programming/pascals-triangle.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [打家劫舍](dynamic-programming/house-robber.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [完全平方数](dynamic-programming/perfect-squares.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [零钱兑换](dynamic-programming/coin-change.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [单词拆分](dynamic-programming/word-break.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [最长递增子序列](dynamic-programming/longest-increasing-subsequence.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [乘积最大子数组](dynamic-programming/maximum-product-subarray.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [分割等和子集](dynamic-programming/partition-equal-subset-sum.cpp)
-- [ ] ![](https://img.shields.io/badge/困难-red) [最长有效括号](dynamic-programming/longest-valid-parentheses.cpp)
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [爬楼梯](dynamic-programming/climbing-stairs.cpp)
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [杨辉三角](dynamic-programming/pascals-triangle.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [打家劫舍](dynamic-programming/house-robber.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [完全平方数](dynamic-programming/perfect-squares.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [零钱兑换](dynamic-programming/coin-change.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [单词拆分](dynamic-programming/word-break.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [最长递增子序列](dynamic-programming/longest-increasing-subsequence.cpp)（有遗忘）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [乘积最大子数组](dynamic-programming/maximum-product-subarray.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [分割等和子集](dynamic-programming/partition-equal-subset-sum.cpp)（有遗忘）
+- [x] ![](https://img.shields.io/badge/困难-red) [最长有效括号](dynamic-programming/longest-valid-parentheses.cpp)（有遗忘）
 
 ### 多维动态规划
 
