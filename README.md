@@ -187,7 +187,7 @@
 </details>
 
 
-## 回顾进度（80/100）
+## 回顾进度（100/100）
 
 ### 哈希
 
@@ -331,19 +331,19 @@
 
 ### 多维动态规划
 
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [不同路径](multidimensional-dynamic-programming/unique-paths.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [最小路径和](multidimensional-dynamic-programming/minimum-path-sum.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [最长回文子串](multidimensional-dynamic-programming/longest-palindromic-substring.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [最长公共子序列](multidimensional-dynamic-programming/longest-common-subsequence.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [编辑距离](multidimensional-dynamic-programming/edit-distance.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [不同路径](multidimensional-dynamic-programming/unique-paths.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [最小路径和](multidimensional-dynamic-programming/minimum-path-sum.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [最长回文子串](multidimensional-dynamic-programming/longest-palindromic-substring.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [最长公共子序列](multidimensional-dynamic-programming/longest-common-subsequence.cpp)（有遗忘）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [编辑距离](multidimensional-dynamic-programming/edit-distance.cpp)
 
 ### 技巧
 
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [只出现一次的数字](trick/single-number.cpp)
-- [ ] ![](https://img.shields.io/badge/简单-brightgreen) [多数元素](trick/majority-element.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [颜色分类](trick/sort-colors.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [下一个排列](trick/next-permutation.cpp)
-- [ ] ![](https://img.shields.io/badge/中等-yellow) [寻找重复数](trick/find-the-duplicate-number.cpp)
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [只出现一次的数字](trick/single-number.cpp)
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [多数元素](trick/majority-element.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [颜色分类](trick/sort-colors.cpp)（有遗忘）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [下一个排列](trick/next-permutation.cpp)
+- [x] ![](https://img.shields.io/badge/中等-yellow) [寻找重复数](trick/find-the-duplicate-number.cpp)
 
 
 ## 参考资料
