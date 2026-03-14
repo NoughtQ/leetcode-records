@@ -365,12 +365,15 @@
 
 </details>
 
-## Top-Interview-150
+## Top-Interview-150（4/150）
 
 ### 数组/字符串
 
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [合并两个有序数组](top-interview-150/array-string/merge-sorted-array.cpp)（26.03.13）
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [移除元素](top-interview-150/array-string/remove-element.cpp)（26.03.13）
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [删除有序数组中的重复项](top-interview-150/array-string/remove-duplicates-from-sorted-array.cpp)（26.03.14）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [删除有序数组中的重复项 II](top-interview-150/array-string/remove-duplicates-from-sorted-array-ii.cpp)（26.03.14）
+
 
 ### 双指针
 
