@@ -365,7 +365,7 @@
 
 </details>
 
-## Top-Interview-150（4/150）
+## Top-Interview-150（6/150）
 
 ### 数组/字符串
 
@@ -373,6 +373,8 @@
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [移除元素](top-interview-150/array-string/remove-element.cpp)（26.03.13）
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [删除有序数组中的重复项](top-interview-150/array-string/remove-duplicates-from-sorted-array.cpp)（26.03.14）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [删除有序数组中的重复项 II](top-interview-150/array-string/remove-duplicates-from-sorted-array-ii.cpp)（26.03.14）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [买卖股票的最佳时机 II](top-interview-150/array-string/best-time-to-buy-and-sell-stock-ii.cpp)（26.03.15）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [H 指数](top-interview-150/array-string/h-index.cpp)（26.03.15）
 
 
 ### 双指针
