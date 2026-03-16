@@ -1,3 +1,5 @@
+// link: https://leetcode.cn/problems/remove-element
+
 class Solution {
 public:
     // My Solution
