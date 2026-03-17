@@ -365,7 +365,7 @@
 
 </details>
 
-## Top-Interview-150（8/150）
+## Top-Interview-150（10/150）
 
 ### 数组/字符串
 
@@ -377,6 +377,8 @@
 - [x] ![](https://img.shields.io/badge/中等-yellow) [H 指数](top-interview-150/array-string/h-index.cpp)（26.03.15）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [O(1) 时间插入、删除和获取随机元素](top-interview-150/array-string/insert-delete-getrandom-o1.cpp)（26.03.16）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [加油站](top-interview-150/array-string/gas-station.cpp)（26.03.16）
+- [x] ![](https://img.shields.io/badge/困难-red) [分发糖果](top-interview-150/array-string/candy.cpp)（26.03.17）
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [加油站](top-interview-150/array-string/roman-to-integer.cpp)（26.03.17）
 
 
 ### 双指针
