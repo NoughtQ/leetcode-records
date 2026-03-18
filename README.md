@@ -365,7 +365,7 @@
 
 </details>
 
-## Top-Interview-150（10/150）
+## Top-Interview-150（12/150）
 
 ### 数组/字符串
 
@@ -379,6 +379,8 @@
 - [x] ![](https://img.shields.io/badge/中等-yellow) [加油站](top-interview-150/array-string/gas-station.cpp)（26.03.16）
 - [x] ![](https://img.shields.io/badge/困难-red) [分发糖果](top-interview-150/array-string/candy.cpp)（26.03.17）
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [加油站](top-interview-150/array-string/roman-to-integer.cpp)（26.03.17）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [整数转罗马数字](top-interview-150/array-string/integer-to-roman.cpp)（26.03.18）
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [最后一个单词的长度](top-interview-150/array-string/length-of-last-word.cpp)（26.03.18）
 
 
 ### 双指针
