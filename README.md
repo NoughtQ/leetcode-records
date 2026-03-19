@@ -365,7 +365,7 @@
 
 </details>
 
-## Top-Interview-150（12/150）
+## Top-Interview-150（14/150）
 
 ### 数组/字符串
 
@@ -381,6 +381,8 @@
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [加油站](top-interview-150/array-string/roman-to-integer.cpp)（26.03.17）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [整数转罗马数字](top-interview-150/array-string/integer-to-roman.cpp)（26.03.18）
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [最后一个单词的长度](top-interview-150/array-string/length-of-last-word.cpp)（26.03.18）
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [最长公共前缀](top-interview-150/array-string/longest-common-prefix.cpp)（26.03.19）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [反转字符串中的单词](top-interview-150/array-string/reverse-words-in-a-string.cpp)（26.03.19）
 
 
 ### 双指针
