@@ -365,7 +365,7 @@
 
 </details>
 
-## Top-Interview-150（16/150）
+## Top-Interview-150（18/150）
 
 ### 数组/字符串
 
@@ -385,9 +385,13 @@
 - [x] ![](https://img.shields.io/badge/中等-yellow) [反转字符串中的单词](top-interview-150/array-string/reverse-words-in-a-string.cpp)（26.03.19）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [Z 字形变换](top-interview-150/array-string/zigzag-conversion.cpp)（26.03.20）
 - [x] ![](https://img.shields.io/badge/简单-lightgreen) [找出字符串中第一个匹配项的下标](top-interview-150/array-string/find-the-index-of-the-first-occurrence-in-a-string.cpp)（26.03.20）
+- [x] ![](https://img.shields.io/badge/困难-red) [文本左右对齐](top-interview-150/array-string/text-justification.cpp)（26.03.21）
 
 
 ### 双指针
+
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [验证回文串](top-interview-150/double-pointers/valid-palindrome.cpp)（26.03.21）
+
 
 ### 滑动窗口
 
