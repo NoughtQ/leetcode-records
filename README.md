@@ -365,7 +365,7 @@
 
 </details>
 
-## Top-Interview-150（18/150）
+## Top-Interview-150（20/150）
 
 ### 数组/字符串
 
@@ -391,6 +391,8 @@
 ### 双指针
 
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [验证回文串](top-interview-150/double-pointers/valid-palindrome.cpp)（26.03.21）
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [判断子序列](top-interview-150/double-pointers/is-subsequence.cpp)（26.03.22）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [两数之和 II - 输入有序数组](top-interview-150/double-pointers/two-sum-ii-input-array-is-sorted.cpp)（26.03.22）
 
 
 ### 滑动窗口
