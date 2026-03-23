@@ -365,7 +365,7 @@
 
 </details>
 
-## Top-Interview-150（20/150）
+## Top-Interview-150（22/150）
 
 ### 数组/字符串
 
@@ -397,7 +397,13 @@
 
 ### 滑动窗口
 
+- [x] ![](https://img.shields.io/badge/中等-yellow) [长度最小的子数组](top-interview-150/sliding-window/minimum-size-subarray-sum.cpp)（26.03.23）
+
+
 ### 矩阵
+
+- [x] ![](https://img.shields.io/badge/中等-yellow) [有效的数独](top-interview-150/matrix/valid-sudoku.cpp)（26.03.23）
+
 
 ### 哈希表
 
