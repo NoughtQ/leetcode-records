@@ -365,7 +365,7 @@
 
 </details>
 
-## Top-Interview-150（24/150）
+## Top-Interview-150（26/150）
 
 ### 数组/字符串
 
@@ -408,6 +408,10 @@
 
 
 ### 哈希表
+
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [赎金信](top-interview-150/hash-table/ransom-note.cpp)（26.03.25）
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [同构字符串](top-interview-150/hash-table/isomorphic-strings.cpp)（26.03.25）
+
 
 ### 区间
 
