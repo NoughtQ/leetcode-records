@@ -365,7 +365,7 @@
 
 </details>
 
-## Top-Interview-150（29/150）
+## Top-Interview-150（31/150）
 
 ### 数组/字符串
 
@@ -414,9 +414,13 @@
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [单词规律](top-interview-150/hash-table/word-pattern.cpp)（26.03.26）
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [有效的字母异位词](top-interview-150/hash-table/valid-anagram.cpp)（26.03.26）
 - [x] ![](https://img.shields.io/badge/简单-brightgreen) [快乐数](top-interview-150/hash-table/happy-number.cpp)（26.03.26）
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [存在重复元素 II](top-interview-150/hash-table/contains-duplicate-ii.cpp)（26.03.27）
 
 
 ### 区间
+
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [汇总区间](top-interview-150/interval/summary-ranges.cpp)（26.03.27）
+
 
 ### 栈
 
