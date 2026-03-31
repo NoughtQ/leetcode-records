@@ -365,7 +365,7 @@
 
 </details>
 
-## Top-Interview-150（37/150）
+## Top-Interview-150（39/150）
 
 ### 数组/字符串
 
@@ -434,6 +434,8 @@
 
 - [x] ![](https://img.shields.io/badge/中等-yellow) [删除链表的倒数第 N 个结点](top-interview-150/linked-list/reverse-linked-list-ii.cpp)（26.03.30）
 - [x] ![](https://img.shields.io/badge/中等-yellow) [删除排序链表中的重复元素 II](top-interview-150/linked-list/remove-duplicates-from-sorted-list-ii.cpp)（26.03.30）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [旋转链表](top-interview-150/linked-list/rotate-list.cpp)（26.03.31）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [分隔链表](top-interview-150/linked-list/partition-list.cpp)（26.03.31）
 
 
 ### 二叉树
