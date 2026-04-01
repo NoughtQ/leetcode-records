@@ -365,7 +365,7 @@
 
 </details>
 
-## Top-Interview-150（39/150）
+## Top-Interview-150（41/150）
 
 ### 数组/字符串
 
@@ -439,6 +439,10 @@
 
 
 ### 二叉树
+
+- [x] ![](https://img.shields.io/badge/简单-brightgreen) [相同的树](top-interview-150/binary-tree/same-tree.cpp)（26.04.01）
+- [x] ![](https://img.shields.io/badge/中等-yellow) [插入区间](top-interview-150/binary-tree/construct-binary-tree-from-inorder-and-postorder-traversal.cpp)（26.04.01）
+
 
 ### 二叉树层次遍历
 
